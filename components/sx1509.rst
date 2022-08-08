@@ -6,7 +6,7 @@ SX1509 16 channel I/O Expander with LED driver and keypad engine
     :image: sx1509.jpg
 
 The SX1509 component allows you to expand your I/O capabilities:
-(`datasheet <https://www.semtech.com/uploads/documents/sx1509_evk_users_guide.pdf>`__,
+(`datasheet <https://cdn.sparkfun.com/datasheets/BreakoutBoards/sx1509.pdf>`__,
 `SparkFun`_) in ESPHome. It uses :ref:`I²C Bus <i2c>` for communication.
 
 Once configured, you can use any of the 16 pins as pins for your projects.
